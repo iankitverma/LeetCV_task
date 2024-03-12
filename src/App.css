@@ -1,0 +1,13 @@
+input {
+  background-color: transparent;
+}
+h1 {
+  font-size: xx-large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  text-size-adjust: inherit;
+}
+label {
+  text-decoration: underline dashed rgb(248, 180, 172);
+}
