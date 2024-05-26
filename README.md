@@ -1,13 +1,7 @@
 # Debate Anything
 
 ## Tech Stack
-- **Next.js:** 14.2
-- **TailwindCSS**
-- **Recoil**
-- **Langchain**
-- **EdgeDB**
-- **shadcn**
-- **Next-Auth**
+Our application leverages cutting-edge technologies to deliver a seamless debate experience. **Next.js 14.2** provides a powerful framework for server-side rendering and static site generation, ensuring fast and efficient web performance. **EdgeDB** is used for our database, offering a modern, graph-relational database system that combines the best aspects of relational databases and graph databases. We also incorporate **TailwindCSS** for styling, **Recoil** for state management, **Langchain** for language processing, **shadcn** for component design, and **Next-Auth** for authentication.
 
 **Deployed URL:** [LeetTalk](https://leetalk-next.vercel.app/)
 
@@ -19,40 +13,7 @@ Join our vibrant community and engage in thought-provoking discussions on a wide
 **Featured Debates**
 Explore the hottest debates and join the conversation.
 
-#### Debate 1: Decrease Age Limit for Presidency to 35
-The age limit for becoming the president of a country is determined by the constitution or laws of that particular country. While it is possible to decrease the age limit to 35, it would require constitutional or legislative amendments. Lowering the age limit could potentially bring new and younger voices into the political arena, allowing for fresh perspectives and ideas. It might also encourage greater youth participation in politics and governance. However, there are arguments on both sides of this issue.
-
-**Pros:**
-- New and younger voices in politics.
-- Fresh perspectives and ideas.
-- Greater youth participation in politics.
-
-**Cons:**
-- Need for experience and maturity.
-- Potential lack of life and professional experience.
-- Necessary wisdom and judgment for presidency.
-
-Ultimately, the decision to decrease the age limit for presidential eligibility should be carefully considered, taking into account the specific circumstances and needs of each country.
-
-**Category:** Social | **Date:** May 20, 2024
-
-#### Debate 2: Starting a News Channel with Only YouTube
-Yes, it is possible to start a news channel with only YouTube. YouTube offers a platform for individuals and organizations to create and share video content with a wide audience. Many news channels and media outlets already have a strong presence on YouTube and use it as a primary platform to disseminate news and information.
-
-**Benefits:**
-- Platform for wide audience reach.
-- Features like live streaming, video editing tools, and monetization.
-
-**Challenges:**
-- Building an audience and maintaining credibility.
-- Competing with established news organizations.
-- Ensuring accurate and reliable reporting.
-
-Overall, while it is possible to start a news channel with only YouTube, it is important to carefully consider the challenges and limitations involved.
-
-**Category:** Others | **Date:** May 21, 2024
-
-#### Debate 3: The Impact of the Industrial Revolution
+#### Debate 1: The Impact of the Industrial Revolution
 The Industrial Revolution, which began in the 18th century, had a profound impact on society, economy, and the environment. It brought about significant technological advancements, increased productivity, and led to the mass production of goods.
 
 **Positive Effects:**
@@ -69,7 +30,7 @@ In conclusion, the Industrial Revolution had both positive and negative impacts 
 
 **Category:** Historical | **Date:** May 22, 2024
 
-#### Debate 4: The Impact of Colonialism
+#### Debate 2: The Impact of Colonialism
 The impact of colonialism is a complex and multifaceted topic. While there are both positive and negative aspects to consider, it is important to acknowledge the profound and lasting consequences of colonial rule on the colonized nations and peoples.
 
 **Positive Aspects:**
@@ -84,7 +45,7 @@ In conclusion, the impact of colonialism is significant and far-reaching, with b
 
 **Category:** Historical | **Date:** May 22, 2024
 
-#### Debate 5: The Role of Technology in Sports: Enhancing or Ruining the Game?
+#### Debate 3: The Role of Technology in Sports: Enhancing or Ruining the Game?
 The role of technology in sports is a topic of ongoing debate. While some argue that technology enhances the game, others believe it can ruin the essence and fairness of sports.
 
 **Enhancements:**
@@ -100,26 +61,11 @@ In conclusion, technology plays a crucial role in enhancing sports but should be
 
 **Category:** Sports | **Date:** May 22, 2024
 
-#### Debate 6: Deciphering the Harappan Script
-The decipherment of the Harappan script is still a topic of ongoing research and debate among scholars. The script remains undeciphered, and there is no widely accepted translation or understanding of its meaning.
-
-**Challenges:**
-- Lack of bilingual texts or known script.
-- Limited length of inscriptions.
-- Lack of ideographic or phonetic clues.
-
-Despite these challenges, progress has been made in understanding aspects of the Harappan script. Ongoing research and new discoveries may eventually lead to a breakthrough.
-
-**Category:** Historical | **Date:** May 20, 2024
-
 ## We Have a Debate for You
 **Topics:**
 - Technology
 - Historical
 - Social
-
-#### Should we allow LLMs to take over the software development work?
-#### Can we really not destroy atoms?
 
 **Explore More** to discover why users love LeetTalk.
 
