@@ -1,4 +1,4 @@
-# Leetalk
+# Leetalk - Debate Anything
 
 ## Tech Stack
 Our application leverages cutting-edge technologies to deliver a seamless debate experience. **Next.js 14.2** provides a powerful framework for server-side rendering and static site generation, ensuring fast and efficient web performance. **EdgeDB** is used for our database, offering a modern, graph-relational database system that combines the best aspects of relational databases and graph databases. We also incorporate **TailwindCSS** for styling, **Recoil** for state management, **Langchain** for language processing, **shadcn** for component design, and **Next-Auth** for authentication.
